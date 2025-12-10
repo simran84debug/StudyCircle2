@@ -1,0 +1,136 @@
+h1{
+    text-align: center;
+    margin-bottom: 10px;
+}
+#navbar{
+    font-size: 25px;
+    margin: 2px;
+    padding: 0%;
+    background-color:#0e1c36;
+    color: #d7f9ff;
+    height: 70px;
+}
+.active{
+    color: white;
+    font-size: 50px;
+    text-decoration: none;
+}
+a{
+    margin: 20px 90px 20px 60px;
+    color: whitesmoke;
+}
+#a{
+    height: 1000px;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:#c8dbd2;
+    text-align: center;
+    font-size: 18px;
+    color: #3d1321;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+#b{
+    height: 420px;
+    background-color:#c8dbd2;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 18px;
+    color: #3d1321; 
+}
+#c{
+    height: 350px;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:#c8dbd2;
+    text-align: center;
+    font-size: 18px;
+    color: #3d1321;
+}
+footer{
+    text-align: center;
+}
+section{
+    text-align: center;
+}
+
+#d{
+    text-align: center;
+    font-size: 18px;
+    width: 500px;
+    height: 600px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0,0.1);
+    border: 2px solid black;
+    background-color: #c8dbd2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px auto;
+}
+#d h3{
+text-align: center;
+margin-bottom: 10px;
+font-size: 30px;
+}
+form label{
+    display: block;
+    font-weight: bold;
+    margin-top: 12px;
+    margin-bottom: 5px;
+}
+form input{
+    width: 150px;
+    padding: 8px;
+    border: 1px solid block;
+    border-radius: 4px;
+    font-size: 16px; 
+}
+button{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    height: 25px;
+    width: 150px;
+    border: 1px solid black;
+    cursor: pointer;
+    background-color: #afcbff;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#f{
+    background-color: #e7ebdd;
+}
+#g{
+    text-align: center;
+    font-size: 18px;
+    width: 500px;
+    height: 450px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0,0.1);
+    border: 2px solid black;
+    background-color: #c8dbd2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 40px auto;
+}
+#h{
+    text-align: center;
+    font-size: 18px;
+    width: 550px;
+    height: 380px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0,0.1);
+    border: 2px solid black;
+    background-color: #c8dbd2;
+    margin: 40px auto;
+    margin-left: auto;
+    margin-right: auto;
+}
